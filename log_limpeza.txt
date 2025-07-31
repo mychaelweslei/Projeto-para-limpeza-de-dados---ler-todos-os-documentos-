@@ -1,0 +1,30 @@
+Shape inicial: (20000, 11)
+Valores nulos iniciais por coluna:
+ID_Transacao        0
+Data                0
+Cliente             0
+Produto             0
+Quantidade          0
+Preco_Unitario      0
+Metodo_Pagamento    0
+Status_Pagamento    0
+Desconto            0
+Cidade              0
+Estado              0
+dtype: int64
+
+--- Após transformações ---
+Shape final: (20000, 11)
+Valores nulos finais por coluna:
+ID_Transacao        0
+Data                0
+Cliente             0
+Produto             0
+Quantidade          0
+Preco_Unitario      0
+Metodo_Pagamento    0
+Status_Pagamento    0
+Desconto            0
+Cidade              0
+Estado              0
+dtype: int64
